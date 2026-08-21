@@ -1,7 +1,5 @@
 # web-scraper-toolkit
 
-Sample project demonstrating production web-scraping / automation patterns.
-
 A small command-line scraper that turns a paginated listing into a clean,
 deduplicated CSV. It is built the way a paid scraping job is built: polite
 request pacing, retries with exponential backoff, user-agent rotation, field
