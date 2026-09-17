@@ -1,5 +1,7 @@
 # web-scraper-toolkit
 
+[![CI](https://github.com/dkautomation23/web-scraper-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/dkautomation23/web-scraper-toolkit/actions/workflows/ci.yml)
+
 A small command-line scraper that turns a paginated listing into a clean,
 deduplicated CSV. It is built the way a paid scraping job is built: polite
 request pacing, retries with exponential backoff, user-agent rotation, field
