@@ -1,6 +1,6 @@
 requests>=2.32
 beautifulsoup4>=4.12
-python-dotenv>=1.0
+python-dotenv>=1.2.3
 
 # Development / tests
 pytest>=8.0
